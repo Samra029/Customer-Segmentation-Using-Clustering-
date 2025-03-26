@@ -24,15 +24,6 @@ This project applies **K-Means clustering** to segment mall customers based on *
 - Identified **5 customer segments** based on spending behavior and demographics.
 - High-income individuals tend to be more frugal, while younger customers exhibit higher spending scores.
 
-## **Business Applications**
-✔ **Targeted Marketing** (customized promotions for different segments)
-✔ **Personalized Recommendations** (product suggestions based on spending patterns)
-✔ **Store Layout Optimization** (placing high-margin items strategically)
-
-## **Challenges & Improvements**
-- Considered **incremental clustering** for adapting to dynamic data.
-- Future work: **Hierarchical clustering, real-time updates, and A/B testing on marketing strategies**.
-
 ## **How to Run the Project**
 1. Clone the repository and install dependencies:
    ```bash
